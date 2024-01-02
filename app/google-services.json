@@ -1,0 +1,127 @@
+{
+  "project_info": {
+    "project_number": "829567796456",
+    "firebase_url": "https://amisa-co-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "amisa-co",
+    "storage_bucket": "amisa-co.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:829567796456:android:9794d90319d9c38abf355d",
+        "android_client_info": {
+          "package_name": "io.github.iyado.accounterx"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "829567796456-e1ul55g33akj7rp87eg8db0lrqti6k4b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjwi5OyY0xAvxpDox6NqXcECZVjP7v4us"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "829567796456-e1ul55g33akj7rp87eg8db0lrqti6k4b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:829567796456:android:813acea7224b3c5fbf355d",
+        "android_client_info": {
+          "package_name": "sy.iyad.accounter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "829567796456-e1ul55g33akj7rp87eg8db0lrqti6k4b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjwi5OyY0xAvxpDox6NqXcECZVjP7v4us"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "829567796456-e1ul55g33akj7rp87eg8db0lrqti6k4b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:829567796456:android:65a3e95391283bedbf355d",
+        "android_client_info": {
+          "package_name": "sy.iyad.accounting"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "829567796456-e1ul55g33akj7rp87eg8db0lrqti6k4b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjwi5OyY0xAvxpDox6NqXcECZVjP7v4us"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "829567796456-e1ul55g33akj7rp87eg8db0lrqti6k4b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:829567796456:android:6c87407f5f29a4a4bf355d",
+        "android_client_info": {
+          "package_name": "sy.iyad.testx"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "829567796456-e1ul55g33akj7rp87eg8db0lrqti6k4b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjwi5OyY0xAvxpDox6NqXcECZVjP7v4us"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "829567796456-e1ul55g33akj7rp87eg8db0lrqti6k4b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
